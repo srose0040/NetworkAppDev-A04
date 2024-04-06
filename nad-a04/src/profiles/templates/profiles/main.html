@@ -14,7 +14,7 @@ my profile
     <h3>{{obj.user}}</h3>
     <hr>
     <div class="text-center" id="avatar-box">
-        <img src="{{obj.avatar.url}}" class="rounded" height="200px" width="auto" alt="obj user usernames">
+        <img src="{{obj.avatar.url}}" class="rounded" height="200px" width="auto" alt="{{obj.user.usernames}}">
     </div>
     <form id="profile-form">
         {% csrf_token %}
