@@ -2,6 +2,7 @@ console.log('hello world')
 
 //const helloWorldBox = document.getElementById('hello-world')
 const postsBox = document.getElementById('posts-box')
+const alertBox = document.getElementById('alert-box')
 const spinnerBox = document.getElementById('spinner-box')
 const loadBtn = document.getElementById('load-btn')
 const endBox = document.getElementById('end-box')
