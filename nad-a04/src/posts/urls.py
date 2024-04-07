@@ -1,3 +1,11 @@
+"""
+* Filename:     urls.py
+* Project:      NAD-A04
+* By:           Saje Antoine Rose
+* Date:         April 6, 2024
+* Description:  This file contains URL patterns for the posts app in the Django project.
+"""
+
 from django.urls import path
 from .views import(
     post_list_and_create,

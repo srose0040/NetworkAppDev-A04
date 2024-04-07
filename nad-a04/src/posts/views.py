@@ -1,3 +1,12 @@
+"""
+* Filename:     views.py
+* Project:      NAD-A04
+* By:           Saje Antoine Rose
+* Date:         April, 06, 2024
+* Description:  This file contains views for handling posts in the Django project.
+"""
+
+
 from django.shortcuts import render
 from .models import Photo, Posts
 from django.http import JsonResponse, HttpResponse

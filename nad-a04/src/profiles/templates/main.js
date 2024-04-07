@@ -1,3 +1,12 @@
+/*
+* Filename:     main.js
+* Project:      NAD-A04
+* By:           Saje Antoine Rose
+* Date:         April 6, 2024
+* Description:  This file contains JavaScript code for handling profile functionality.
+*/
+
+
 console.log('helo my profile')
 
 const avatarBox = document.getElementById('avatar-box')

@@ -1,3 +1,12 @@
+/*
+* Filename:     detail.js
+* Project:      NAD-A04
+* By:           Saje Antoine Rose
+* Date:         April 6, 2024
+* Description:  This file contains JavaScript code for handling detail view functionality.
+*/
+
+
 console.log('hello-world-detail')
 const postBox = document.getElementById('post-box')
 const alertBox = document.getElementById('alert-box')

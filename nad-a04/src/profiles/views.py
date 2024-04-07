@@ -1,3 +1,12 @@
+"""
+* Filename:     views.py
+* Project:      NAD-A04
+* By:           Saje Antoine Rose
+* Date:         April 6, 2024
+* Description:  This file contains views for handling profiles in the Django project.
+"""
+
+
 from django.shortcuts import render
 from .models import Profile
 from .forms import ProfileForm
